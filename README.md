@@ -1,2 +1,2 @@
-# Pelajar NU Sidomulyo Website
+# Website Pelajar NU Sidomulyo
 Website Pages
