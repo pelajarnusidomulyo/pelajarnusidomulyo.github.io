@@ -257,14 +257,18 @@
                 const waElement = document.createElement("a");
                 waElement.innerHTML = (`<b>Join Whatsapp Grup</b>`);
                 waElement.setAttribute("href",
-                    ""
+                    "https://chat.whatsapp.com/D9LrzM5wWUj0vT32qQ1BkK"
                 );
                 waElement.style.color = 'red';
                 waElement.style.textDecoration = 'none';
                 document.querySelector("#response").appendChild(waElement);
+                
+                const noteElement = document.createElement("p");
+                noteElement.innerHTML = "Note : Jika link Grup tidak bisa diakses, anda bisa konfirmasi kepada panitia pendaftaran!"
+                document.querySelector(#response).appendChild(noteElement);
 
                 window.scrollTo({
-                    top: 1850,
+                    top: 1750,
                     behavior: 'smooth',
                 });
             }, 2000)
