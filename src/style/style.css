@@ -19,7 +19,9 @@ body {
 }
 
 .hero-section {
-    margin-top: 220px;
+    margin-top: 180px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .hero-image img {
